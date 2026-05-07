@@ -1,13 +1,5 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════╗
-║                                               ║
-║         ◈  GENERATIVE  AI  ◈                 ║
-║                                               ║
-╚═══════════════════════════════════════════════╝
-```
-
 **A custom-trained language model built from scratch — fine-tuned on personal data using DistilGPT-2 and Hugging Face Transformers.**
 
 *Produces unique, non-hardcoded responses every single time.*
@@ -79,19 +71,6 @@ python scripts/run.py
 
 ---
 
-## ✦ Project Structure
-
-```
-Generative-AI/
-├── scripts/
-│   ├── train.py        ← Fine-tuning pipeline
-│   └── run.py          ← Interactive chat interface
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## ✦ How It Works
 
 ```
@@ -110,9 +89,3 @@ The training script loads your custom dataset, fine-tunes the DistilGPT-2 base m
 Released under the **MIT License** — free to use, modify, and distribute.
 
 ---
-
-<div align="center">
-
-*Built with 🤍 by [Patrick Asaad](https://github.com/PatrickAsaad1)*
-
-</div>
