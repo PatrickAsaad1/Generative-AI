@@ -1,1 +1,1 @@
-# This is generative ai so put ur data here (its better to be more than 50k chars)
+# This is generative AI, so put ur data here (it's better to be more than 50k chars), and if you don't put enough data, it will say random thingys
